@@ -104,7 +104,7 @@ if(isset($_POST['submit']))
     </style>
 </head>
 
-<body style="background-color : #E59866 ;">
+<body style="background-color : lavender ;">
  
 <?php
   include 'navbar.php';

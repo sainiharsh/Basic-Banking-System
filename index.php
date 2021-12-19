@@ -16,17 +16,17 @@
   </head>
   
   <body>
+    
   <?php
   include 'navbar.php';
   ?>
-  
+ 
       <div class="container-fluid">
       <!-- Introduction section -->
             <div class="row intro py-1" style="background-color :antiquewhite;">
               <div class="col-sm-12 col-md">
                 <div class="heading text-center my-5">
-                  <h3>Welcome to</h3>
-                  <h1>Bharat Bank</h1>
+                  <center><h1>Welcome to Bharat Banking System</h1></center>
                 </div>
               </div>
               <div class="col-sm-12 col-md img text-center">
